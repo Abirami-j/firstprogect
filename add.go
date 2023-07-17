@@ -8,7 +8,7 @@ func main() {
 
 	// initializing the variables
 	number1 = 99
-	number2 = 81
+	number2 = 5000
 
 	// adding the numbers
 	number3 = number1 + number2
